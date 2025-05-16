@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+websocket-client
+tkinter
+matplotlib
+logging
